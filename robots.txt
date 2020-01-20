@@ -1,0 +1,3 @@
+User-agent:Googlebot
+Disallow:
+http://people.vts.su.ac.rs/~07216004/sitemap.xml
